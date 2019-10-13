@@ -18,4 +18,4 @@ CREATE TABLE pledges (
   amount REAL,
   user_id INTEGER FOREIGN KEY,
   project_id INTEGER FOREIGN KEY 
-)
+);
